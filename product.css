@@ -1,0 +1,15 @@
+#produit{
+    
+    flex-direction: column;
+}
+
+.photo{
+    height: 190px;
+    width: 190px;
+    border: 1px solid black;
+}
+.miniature{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
